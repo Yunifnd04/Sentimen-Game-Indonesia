@@ -1,6 +1,6 @@
 # 🎮 Sentiment Analysis of Indonesian Simulator Game Reviews
 
-Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna dari empat game simulator buatan Indonesia yang tersedia di Google Play Store. Analisis dilakukan menggunakan algoritma **Naive Bayes** dengan pendekatan supervised learning pada bahasa Indonesia.
+Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna dari Game simulator buatan Indonesia yang tersedia di Google Play Store. Analisis dilakukan menggunakan algoritma **Naive Bayes** dengan pendekatan supervised learning pada bahasa Indonesia.
 
 ## Game yang Dianalisis
 4. **Angkot The Game** (`angkot_bagus.py`)
